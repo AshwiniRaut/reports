@@ -1,6 +1,6 @@
 Feature: Add and Remove functionality
 
-@Regression @smoke
+@Regression @smoke @smoke
 Scenario: Verify Add And Remove Functionality
 Given User is on herokuapp webpage
 When User clicks on Add And Remove button 
